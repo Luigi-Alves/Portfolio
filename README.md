@@ -1,4 +1,4 @@
-# 🚀 Portfolio – Luigi Alves
+# Portfolio – Luigi Alves Carvalho
 
 Bem-vindo ao meu portfólio! 👋  
 Este repositório contém o código fonte do meu site pessoal, onde apresento meus projetos, habilidades e informações de contato.
